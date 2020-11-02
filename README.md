@@ -1,5 +1,4 @@
-# models
-For work
+# Models 
 
 1. clustering: определение лояльных покупателей. **К средних** (sklearn - Kmeans).
 2. classification: распределить новые точки продаж по имеющимся сегментам. **Гадиентный бустинг** (sklearn - Gradient boosting classifier).
