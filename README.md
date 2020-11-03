@@ -1,6 +1,6 @@
 # Models 
 
-1. clustering: определение лояльных покупателей. **К средних** (sklearn - Kmeans).
+1. clustering: определение лояльных покупателей. **К средних** (sklearn - Kmeans). 
 2. classification: распределить новые точки продаж по имеющимся сегментам. **Гадиентный бустинг** (sklearn - Gradient boosting classifier).
 3. time_series: прогнозирование количества визитов в магазины. **sARIMA** (statsmodels - sARIMA). 
 4. lookalike: выделение из общего массива респонденов максимально похожих на заданную группу. **Positive-Unlabled классификация** (sklearn - LogisticRegression). 
