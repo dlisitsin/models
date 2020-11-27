@@ -1,4 +1,4 @@
-# Models description:
+# Models description: 
 
 1. association_rules: определить комплементарные товары. **Apriori** ([mlxtend - apriori, association_rules](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/)).
 2. classification: распределить новые точки продаж по имеющимся сегментам. **Гадиентный бустинг** ([sklearn - Gradient boosting classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)).
